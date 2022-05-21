@@ -8,4 +8,4 @@ Added some new lines
 
 ## Local development
 
-1. Open exp.html in your browser
+1. Open html file in your browser
